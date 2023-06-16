@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**David-Alves-Santos/David-Alves-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá 👋
 
 - 🤓Tenho conhecimento em HTML5, CSS, JavaScript, Python, Django.
 - 🧗Atualmente estou aprofundando o meu conhecimento.
@@ -11,4 +8,4 @@
 
 - 💙Hobby: Ler
 - 🧠Curiosidade: Gosto de assuntos que estejam ligados ao comportamento humano.
-
+- 🌏Estudando Inglês
