@@ -20,7 +20,7 @@
 - 🧠Curiosidade: Gosto de assuntos que estejam ligados ao comportamento humano.
 - 🌏Estudando Inglês.
 <div>
-	<img src="https://github-readme-stats.vercel.app/api?username=David47331197#8716&show_icons=true&theme=transparent">
+	<img src="https://github-readme-stats.vercel.app/api?username=David-Alves-Santos#8716&show_icons=true&theme=transparent">
 </div>
 
 <div>
